@@ -1,2 +1,2 @@
 # My App
-Learning git 
+Learning git version control 
